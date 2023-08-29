@@ -1,6 +1,6 @@
 # LCD Controller for SPI TFT LCD (RP2040)
 
-![LCD Controller](lcd_controller.jpg)
+![LCD Controller](lcd_controller.png)
 
 This repository contains a simple LCD controller project designed for an SPI TFT LCD panel, which was acquired from AliExpress. The controller is built using an RP2040 microcontroller, and the pin configuration is compatible with the original setup.
 
