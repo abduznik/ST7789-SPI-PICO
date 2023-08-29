@@ -25,4 +25,13 @@ Follow these steps to set up the project:
 1. Clone this repository to your local machine.
 2. Ensure you have CircuitPython installed on your RP2040. If not, follow the instructions on the [CircuitPython website](https://circuitpython.org/board/raspberry_pi_pico/) to install it.
 3. Copy the required libraries (`adafruit_st7789` and `adafruit_display_text`) to your RP2040. You can find these libraries on the [Adafruit CircuitPython Bundle](https://circuitpython.org/libraries) page.
-4. Upload the project code (`lcd_controller.py`) to your RP2040.
+4. Upload the project code (`st7789_lcd_controller.py`) to your RP2040.
+
+## Usage
+
+After setting up the hardware and uploading the code, power on the system. The RP2040 will initialize the LCD panel and display the specified text using the Adafruit libraries. Feel free to modify the `st7789_lcd_controller.py` file to customize the displayed text or other features of the LCD.
+
+## Contributing
+
+Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or a pull request in this repository.
+
